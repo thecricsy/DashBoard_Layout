@@ -1,8 +1,8 @@
 <resources>
-    <string name="app_name">DashBoard_Layout</string>
-    <string name="search">search</string>
-    <string name="Home">Home</string>
-    <string name="Save">Lưu trữ</string>
-    <string name="Add">Đăng bài</string>
-    <string name="Account">Account</string>
+    <string name="app_name">Cook Book</string>
+    <string name="search">Search</string>
+    <string name="home">Home</string>
+    <string name="saved">Saved</string>
+    <string name="account">Account</string>
+    <string name="write_post">Write Post</string>
 </resources>
