@@ -5,15 +5,15 @@
         android:icon="@drawable/ic_home"
         android:title="@string/Home"/>
     <item
-        android:id="@+id/Save"
+        android:id="@+id/menuSave"
         android:icon="@drawable/ic_save"
         android:title="@string/Save"/>
     <item
-        android:id="@+id/menuHome"
+        android:id="@+id/menuAdd"
         android:icon="@drawable/ic_add"
         android:title="@string/Add"/>
     <item
-        android:id="@+id/menuHome"
+        android:id="@+id/menuAccount"
         android:icon="@drawable/ic_account"
         android:title="@string/Account"/>
 </menu>
