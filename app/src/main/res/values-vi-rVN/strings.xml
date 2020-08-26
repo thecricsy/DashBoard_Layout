@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DashBoard_Layout</string>
+    <string name="search">Tìm Kiếm</string>
+    <string name="Home">Trang Chủ</string>
+    <string name="Save">Lưu trữ</string>
+    <string name="Add">Đăng bài</string>
+    <string name="Account">Tài Khoản</string>
+    <string name="email">Email</string>
+    <string name="Your_Post">Bài Viết Của Bạn</string>
+    <string name="Save_Post">Bài Viết Đã Lưu</string>
+    <string name="help">Trợ Giúp</string>
+    <string name="Language">Ngôn Ngữ</string>
+    <string name="Change_Password">Đổi Mật Khẩu</string>
+    <string name="Log_out">Đăng Xuất</string>
+</resources>

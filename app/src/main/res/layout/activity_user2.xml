@@ -23,16 +23,117 @@
             android:id="@+id/txtUserName"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="UserName"
+            android:text="@string/email"
             android:textSize="26sp"
             android:textColor="#000"/>
 
     </LinearLayout>
-    <ListView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/lsvUser"
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="5dp"
+    android:weightSum="10"
+    android:orientation="horizontal"
+    >
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="@string/Your_Post"
+        android:textSize="24sp"
+        android:textColor="#000"
+        android:layout_weight="9"
         />
+    <ImageView
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:src="@drawable/ic_post"
+        android:layout_weight="1"
+        />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:weightSum="10"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/Save_Post"
+            android:textSize="24sp"
+            android:textColor="#000"
+            android:layout_weight="9"
+            />
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_saved_post"
+            android:layout_weight="1"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:weightSum="10"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/help"
+            android:textSize="24sp"
+            android:textColor="#000"
+            android:layout_weight="9"
+            />
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_help"
+            android:layout_weight="1"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:weightSum="10"
+        android:orientation="horizontal"
+        >
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/Language"
+            android:textSize="24sp"
+            android:textColor="#000"
+            android:layout_weight="9"
+            />
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/ic_language"
+            android:layout_weight="1"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Change_Password"
+        android:textColor="#000"
+        android:textSize="24sp"
+        android:padding="5dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Log_out"
+        android:textSize="24sp"
+        android:textColor="#000"
+        android:padding="5dp"
+        />
+
 
 
 </LinearLayout>

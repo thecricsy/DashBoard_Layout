@@ -2,7 +2,14 @@
     <string name="app_name">DashBoard_Layout</string>
     <string name="search">search</string>
     <string name="Home">Home</string>
-    <string name="Save">Lưu trữ</string>
-    <string name="Add">Đăng bài</string>
+    <string name="Save">Save Post</string>
+    <string name="Add">Post</string>
     <string name="Account">Account</string>
+    <string name="email">Email</string>
+    <string name="Your_Post">Your Post</string>
+    <string name="Save_Post">Saved Post</string>
+    <string name="help">Help</string>
+    <string name="Language">Language</string>
+    <string name="Change_Password">Change Password</string>
+    <string name="Log_out">Log Out</string>
 </resources>
