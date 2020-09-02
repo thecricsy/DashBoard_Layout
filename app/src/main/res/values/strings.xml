@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">Cook Book</string>
-    <string name="search">Search</string>
     <string name="home">Home</string>
     <string name="saved">Saved</string>
+    <string name="write_post">Write post</string>
     <string name="account">Account</string>
-    <string name="write_post">Write Post</string>
 </resources>
